@@ -17,7 +17,7 @@ Your task is to build a python service to expose the predictive model for fraud 
 4. Implement the API. The response should be returned in a readable format. 
 5. Include in your submission a README on getting the service up and running and instructions on how to send requests into your service.
 
-## Future discussion points
+## Potential final-round discussion points
 - What testing approach would give you confidence that everything is working as expected?
 - How would you incorporate a new, updated model into the service?
-- The exploratory data analysis, feature engineering and model selection and tuning has been omitted from this exercise. We can jointly critique the work already done and then extend it.
+- The exploratory data analysis, feature engineering and model selection and tuning has been omitted from this exercise. How would you critique the work already done and what would you work on next to improve the model?
