@@ -9,9 +9,9 @@ Though not necessary for this exercise, more information about the data and the 
 You should plan on spending 2-3 hours on this task. We understand that this time frame limits the scope of the implementation. The focus should be on delivering a working service, as explained below. We can subsequently discuss jointly the corners you may have cut, the design choices you made, and ways the design and implementation could be extended. 
 
 ## Task 
-Your task is to build a python service to expose the predicitve model for fraud that is created in the supplied Jupyter Notebook. Specifically, this includes:
+Your task is to build a python service to expose the predictive model for fraud that is created in the supplied Jupyter Notebook. Specifically, this includes:
 
-1. Examining the supplied Jupyter notebook, and familiarizing yourself with the work previosuly carried out.
+1. Examining the supplied Jupyter notebook, and familiarizing yourself with the work previously carried out.
 2. Extracting the model, and any needed additional information, and ingesting it into your service. 
 3. Designing an API for interacting with the model. At a minimum, the API should allow for new potential instances of fraud to be sent to the service, and the service should respond with the model's prediction as to whether the instance is fraudulent
 4. Implement the API. The response should be returned in a readable format. 
